@@ -1,0 +1,19 @@
+Why the sun goes around the earth?
+Correct: Because the earth is round.
+Correct: Because the earth isn't flat.
+Because the sun teleports.
+Because we are living in Minecraft.
+Because there are multiple suns in the universe
+
+What kind of artifical intelligence people have been talking about?
+Correct: Neural network
+Nested conditional statements
+Unpaid visual artist in your basement
+Wait... artifical intelligence?
+
+What is the correct answer for $\int {k}x dx$?
+Const: k from 2 to 8 step 1
+Correct: ${{k} \over 2} x^2 + C$
+${2 \over {k}} x^2 + C$
+${{k} \over 2} x^2$
+${-{k} \over 2} x^2 + C$
